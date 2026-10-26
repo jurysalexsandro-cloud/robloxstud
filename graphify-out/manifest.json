@@ -1,0 +1,176 @@
+{
+  "bridge.py": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.783953,
+    "ast_hash": "36a3b785c37967d1b0e7715a97e68579",
+    "semantic_hash": ""
+  },
+  "config.json": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.783961,
+    "ast_hash": "51008e08764b67a213289fc3bd00ab2b",
+    "semantic_hash": ""
+  },
+  "launch_studio_mcp.py": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.7839646,
+    "ast_hash": "6a94322b09b32a5e95f96e690bf99860",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/background.js": {
+    "mtime": 1792426393.1935244,
+    "seen": 1793044662.7839668,
+    "ast_hash": "e44127733b1b1af06746af14489d8ddc",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/core/config.js": {
+    "mtime": 1792426393.1935244,
+    "seen": 1793044662.7839842,
+    "ast_hash": "bad0923168022ed69ddd66c62e2dd456",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/core/main.js": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.783986,
+    "ast_hash": "031bbad8a16e4ac0245058fd8c7164bc",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/core/parser.js": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.7839882,
+    "ast_hash": "06f58f19c4a3e129f9763ba0941c0fbc",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/manifest.json": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.7839897,
+    "ast_hash": "5578a3cf5fccb330b6c798f0b0467ae9",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/popup.js": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.783991,
+    "ast_hash": "75c0129f9eae5e86185e8e3d65559b07",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/arena.js": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.7839923,
+    "ast_hash": "d7fc4dac61de27b68bcaf27d63972d31",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/chatgpt-cm.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7839935,
+    "ast_hash": "fed4d4999942827e0f092fbf480b07c2",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/chatgpt.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7839954,
+    "ast_hash": "5ee4ae560bc94c399b96187b343d95ee",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/deepseek.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7839966,
+    "ast_hash": "8f4352adfd70fc5c490031a7a9fd0ead",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/gemini.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7839983,
+    "ast_hash": "70a5f9cac5ae730fb53d646fd5687f76",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/glm.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7839992,
+    "ast_hash": "0d6edc8d5104f9deedff94f6f5a08c21",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/kimi.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7840004,
+    "ast_hash": "dabeb5213c069038edf70abc85d6a201",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/meta.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.784002,
+    "ast_hash": "5c941439c514f57c6d930ec266111293",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/qwen-net.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7840033,
+    "ast_hash": "f0cb942b85d236e48d820bedf0cfb12a",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/providers/qwen.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7840047,
+    "ast_hash": "22e308be54ffc51fc196ac0f19d0bbdf",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/test-chatgpt.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7840056,
+    "ast_hash": "11fdda46f18d218030b023fabd73aa66",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/test-parser.js": {
+    "mtime": 1792426393.1970062,
+    "seen": 1793044662.7840068,
+    "ast_hash": "fe27c808af7fde15bafeef0fa7c950ce",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1792426393.18044,
+    "seen": 1793044662.7840083,
+    "ast_hash": "9b1be68bd214c1817f06a9a2c3537789",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792426393.18044,
+    "seen": 1793044662.78401,
+    "ast_hash": "dd911fd31cea4c79261a2fff8cf62dae",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/README.md": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.7840116,
+    "ast_hash": "7e8002e0dca2c9cab510ee0b4f6a22ad",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/popup.html": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.7840126,
+    "ast_hash": "396e29409befff36dee4dfb866e0357b",
+    "semantic_hash": ""
+  },
+  "assets/banner.png": {
+    "mtime": 1792426393.18444,
+    "seen": 1793044662.7840137,
+    "ast_hash": "3b48650a9807f213149dc9d3c5aaf0cb",
+    "semantic_hash": ""
+  },
+  "assets/banner.svg": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.7840152,
+    "ast_hash": "5a1f97d76098c9b58a406324e1ee7b86",
+    "semantic_hash": ""
+  },
+  "assets/icon.png": {
+    "mtime": 1792426393.1884398,
+    "seen": 1793044662.7840161,
+    "ast_hash": "d9e5a8ecd8c5c225f88fa1a611a31644",
+    "semantic_hash": ""
+  },
+  "zeroscript-extension/icon.png": {
+    "mtime": 1792426393.1940033,
+    "seen": 1793044662.7840173,
+    "ast_hash": "d9e5a8ecd8c5c225f88fa1a611a31644",
+    "semantic_hash": ""
+  }
+}
